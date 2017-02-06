@@ -294,7 +294,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "Home.html",
@@ -363,7 +363,7 @@
           },
           "title": "宗旨:",
           "text": "小伊園幼兒園是讓寶寶們快樂學習園地，讓爸爸媽媽信任、安心、放心的學前教育機構。我們注重孩子的健康體魄、本體機能活動、多語言活動體驗、「華語.鄉土語.英文.日文」主題教學活動.小肌肉操作活動.戶外教學活動.邏輯操作活動.美勞操作活動.成質生活品格活動.多元的融合活動讓寶寶參予.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"主頁.html\" data-toolbar=\"-mbrBtnMove\">回首頁</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Home.html\" data-toolbar=\"-mbrBtnMove\">回首頁</a>"
         },
         {
           "_tags": [
@@ -563,7 +563,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "Home.html",
@@ -685,7 +685,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "Home.html",
@@ -732,7 +732,7 @@
           "title": "小伊園",
           "text": "孩子們的第二個家",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/%E5%B0%8F%E4%BC%8A%E5%9C%92%E5%B9%BC%E5%85%92%E5%9C%92-195809987236689/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">教育理念<br></a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">相簿請點這裡</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow\" data-bg-video=\"https://www.youtube.com/embed/YXX3OKwi7II?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"121\">小伊園</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"122\">孩子們的第二個家</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"purpose\" target=\"_blank\" code-editable-id=\"123\">教育理念<br></a>   <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"https://www.facebook.com/pg/%E5%B0%8F%E4%BC%8A%E5%9C%92%E5%B9%BC%E5%85%92%E5%9C%92-195809987236689/photos/?tab=albums\" code-editable-id=\"124\" target=\"_blank\">相簿請點這裡</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#footer1-2\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow\" data-bg-video=\"https://www.youtube.com/embed/YXX3OKwi7II?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"121\">小伊園</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"122\">孩子們的第二個家</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"purpose\" target=\"_blank\" code-editable-id=\"123\">教育理念<br></a>   <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"https://www.facebook.com/195809987236689/photos/?tab=albums\" code-editable-id=\"124\" target=\"_blank\">相簿請點這裡</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#footer1-2\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n.mbr-section-title {\n\tcolor: #ffffff;\n\ttext-align: center;\n\tfont-family: 'Roboto Condensed', sans-serif;\n}\n",
@@ -1139,7 +1139,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-172x1283.png",
               "height": 128,
               "alt": "小伊園",
               "link": "Home.html",
